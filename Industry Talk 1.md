@@ -11,5 +11,5 @@ From this talk, my group need to create a poster about the talk. So here our pos
 
 
 
-## Reflection
+## Reflection 📝
 From this talk, i gained opportunities to explore and gain more knowledge about life as an IT worker. It was interesting to hear all the experiences from them. They gave us lots of tips to success in computer science field and also share the criteria we need to have before apply any job. Beside, this career talk inspired me to focus on three key areas: continuous learning, deep interest, effective communication, and meaningful relationship-building. Next, i also need to identify and reaching out to the right people—whether they are senior colleagues or mentors—can provide guidance, facilitate problem-solving, and enhance career growth. Overall, this talk really inspired me to continue pursue my dream as a bioinformatics student.  
