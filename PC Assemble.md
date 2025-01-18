@@ -16,5 +16,5 @@
 ## POWER SUPPLY
 ![Power supply](https://github.com/user-attachments/assets/d2a50071-61e2-49e5-8d1a-13295dc275d5)
 
-## REFLECTION
+## REFLECTION 🖥️
 On October 20, 2024, I have my first PC maintenance workshop with my groupmate, where we were given a PC to learn about the hardware inside it. I learned many things during this PC lab session, such as how to open the PC, what tools I need to use to open it and got to know what the function about all the hardware inside the PC. It was a great opportunity because I was able to learn and explore more about the hardware inside it. Actually, it was my first time open the PC, and I was amazed by the hardware inside. They have lots of components inside it, for example, the hard disk, CPU, RAM, power supply, wires, cooling fan, and the system board known as the motherboard. In this session, we have been told to disassemble and assemble back the hardware in PC, and test it out to see whether it works or not. By the end, It was fascinating to see how the PC worked.
