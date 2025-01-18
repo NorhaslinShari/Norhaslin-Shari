@@ -4,7 +4,11 @@
 This webinar delves into AirAsia’s contributions to the community, its role in addressing real-life challenges during the COVID-19 pandemic, and the valuable skills required in the workplace. AirAsia has evolved significantly since its inception in 2001 as a budget airline committed to making air travel accessible to everyone. Today, it offers a broad range of products and services that simplify, enhance, and add convenience to people's lives. Its journey showcases how a company can transcend its original mission to become a lifestyle powerhouse. This poster highlights AirAsia’s innovations, internship opportunities, and insights into life as a Software Engineer (SE) within the company. 
 
 
+
+From this talk, my group need to create a poster about the talk. So here our poster ;-
 ![Image](https://github.com/user-attachments/assets/b357a002-6885-4a7a-9e51-04617b110850)
+
+
 
 
 ## Reflection
