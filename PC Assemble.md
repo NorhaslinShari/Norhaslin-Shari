@@ -1,4 +1,4 @@
-## PC
+ ## PC
 ![PC ](https://github.com/user-attachments/assets/84a69505-6876-48cf-84ab-fa34e9064bd8)
 
 ## SYSTEM IN PC
