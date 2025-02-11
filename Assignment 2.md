@@ -11,7 +11,7 @@ A picture with staffs there
 The staff explained how the Smartboard function
 ![industry visit 2](https://github.com/user-attachments/assets/6711b1bf-c447-4422-a147-77864ec59575)
 
-Briefing about who handle the technical issues
+Briefing who is responsible to handle the technical issues
 ![industry visit 3](https://github.com/user-attachments/assets/ff6329cd-a857-498b-a558-85e65ff2d032)
 
 Picture with my groupmate
