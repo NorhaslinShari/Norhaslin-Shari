@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Norhaslin Shari - Personal Webpage</title>
+	<link rel="stylesheet" type="text/css" href="personal.css">
+	
+</head>
+<body>
+	<h1 style="text-align:left;">Norhaslin Shari</h1> 
+	<div style="display: flex; flex-direction: row; justify-content:space-between;"> 
+		
+		<!-- Column 1 -->
+		<div style="flex: 1; margin: 10px; margin-right: 10px;"> 
+		<h2>About Me</h2>
+			<img src="myphoto.jpg" alt="Norhaslin Shari">
+            <p>Hello! My name is Norhaslin Shari, and I am currently a Bioinformatics student at Universiti Teknologi Malaysia (UTM).</p>
+			<p> I enjoy learning about computing and exploring creative digital solutions.</p>
+        </div>
+
+        <!-- Column 2 -->
+        <div style="flex: 1; margin: 10x;margin-top: 10px;margin-left: 25px;">
+            <h2>Hobbies & Interests</h2>
+            <ul>
+                <li><a href="https://www.codecademy.com" target="_blank">Web Development</a></li>
+                <li><a href="https://www.goodreads.com" target="_blank">Reading Books</a></li>
+                <li>Watching K-dramas</li>
+                <li>Photography</li>
+            </ul>
+        </div>
+
+        <!-- Column 3-->
+        <div style="flex: 1; margin: 10px; margin-right: 15px;">
+            <h2>More About Me</h2>
+            <p>My academic interests include bioinformatics and web development. My goal is to enhance my computing skills and 
+			contribute to innovative projects in both science and technology.</p>
+        </div>
+	
+	  </div>
+
+</body>
+</html>
+
+
+		
+	
+	
