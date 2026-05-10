@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Personalized Webpage</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url("background.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      color: #333;
+    }
+
+    /* Header */
+    header {
+      background-image: url("header-bg.jpg"); /* replace with your image file */
+      background-size: cover;
+      background-position: center;
+      color: white;
+      text-align: center;
+      padding: 20px 10px;
+      border-bottom: 4px solid rgba(0,0,0,0.3);
+    }
+
+    header img {
+      width: 240px;   /* bigger profile photo */
+      height: auto;
+      border-radius: 70%;
+      margin-top: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    }
+
+    /* Layout: nav + main + aside side by side */
+    section {
+      display: flex;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    /* Navigation column */
+    nav {
+      background: rgba(51, 51, 51, 0.95); /* keep your dark color */
+      flex: 1;
+      min-width: 180px;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav li {
+      margin: 15px 0;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: 500;
+      display: block;
+      padding: 8px 12px;
+      transition: background 0.3s;
+    }
+
+    nav a:hover {
+      background: #4CAF50;
+      border-radius: 5px;
+    }
+
+    /* Main content */
+    main {
+      flex: 3;
+      background: rgba(255, 255, 255, 0.85);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    article {
+      flex: 3;
+    }
+
+    /* Complementary sidebar */
+    aside {
+      flex: 1;
+      background: rgba(240, 240, 240, 0.9);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    /* Footer */
+    footer {
+      background: rgba(34, 34, 34, 0.9);
+      color: white;
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9em;
+    }
+
+    footer a {
+      color: #4CAF50;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Banner -->
+  <header role="banner">
+    <h1>Norhaslin Shari</h1>
+    <img src="myphoto.jpg" alt="Photo of Norhaslin">
+    <p>Bioinformatic Student | From faculty of computing</p>
+  </header>
+
+  <!-- Navigation + Main + Sidebar -->
+  <section>
+    <!-- Navigation -->
+    <nav role="navigation">
+      <ul>
+        <li><a href="#projects">My Projects</a></li>
+        <li><a href="#research">Research Area</a></li>
+        <li><a href="#tools">Daily Tools</a></li>
+        <li><a href="#journey">Learning Journey</a></li>
+      </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+      <article role="main">
+        <h2>My Favourite Hobby: Watching K‑Drama and C‑Drama</h2>
+        <p>I love spending my free time watching Korean and Chinese dramas.Recently, i'm watching Bloodhound, it was so good..</p>
+        <p>This hobby is special to me as it lets me enjoy different cultures while picking up bits of Korean and Mandarin. Each series have its own plot twist so i did enjoy my time wathing all dramas.</p>
+      </article>
+    </main>
+
+    <!-- Complementary Sidebar -->
+    <aside role="complementary">
+      <h3>My Drama Watching Essentials</h3>
+      <ul>
+        <li>I keep a small notebook to jot down memorable quotes or cultural notes while watching, which helps me remember details and learn new phrases.</li>
+        <li>I use Loklok as my favourite tools to wathcing all dramas.</li>
+        <li>I follow fan communities on titkok to stay updated on upcoming releases.</li>
+      </ul>
+    </aside>
+  </section>
+
+  <!-- Footer -->
+  <footer role="contentinfo">
+    <p>© NS | Student ID: A24CS0149</p>
+    <p><a href="https://github.com/NorhaslinShari" target="_blank">My GitHub Portfolio</a></p>
+  </footer>
+
+</body>
+</html>
